@@ -1,0 +1,8 @@
+D:\Projects\TRPP\lab1\bin\Debug\lab1.exe.config
+D:\Projects\TRPP\lab1\bin\Debug\lab1.exe
+D:\Projects\TRPP\lab1\bin\Debug\lab1.pdb
+D:\Projects\TRPP\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\Projects\TRPP\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\TRPP\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Projects\TRPP\lab1\obj\Debug\lab1.exe
+D:\Projects\TRPP\lab1\obj\Debug\lab1.pdb
